@@ -39,8 +39,6 @@ Witness the LFL Line Follower in action and explore our project further through 
 
 - Project Images and Setup:
 
-![WhatsApp Image 2024-01-22 at 22 16 18 (1)](https://github.com/andreeadv/Line-follower/assets/91892810/97f063c9-3cf6-47eb-bd7b-d65473c84e41)
-
 ![WhatsApp Image 2024-01-22 at 22 16 19](https://github.com/andreeadv/Line-follower/assets/91892810/5752523c-f451-46f9-858f-44bdc0833efa)
 
 We hope this overview provides a glimpse into the hard work and dedication behind the LFL Line Follower Project. Our journey from conception to completion was filled with learning, innovation, and teamwork.
