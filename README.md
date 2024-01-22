@@ -26,7 +26,7 @@ Our team embarked on the challenging task of designing and constructing the chas
 ## Code and Control 📚
 
 The robot's brain is programmed using a PID control strategy, with parameters meticulously adjusted through a combination of theoretical knowledge and practical testing. This ensures that our robot can adapt to different track conditions and maintain optimal line tracking.
- [More about the code](https://youtu.be/link)
+ [More about the code](https://github.com/andreeadv/Line-follower/blob/main/LineFollower.ino)
 
 ## Performance and Results 🏅
 
