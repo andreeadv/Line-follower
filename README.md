@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the LFL Line Follower Project! This project was an exciting endeavor undertaken by our team, LFL, consisting of Dinu Andreea-Violeta, Marin Iulian and me, during our Robotics class. The goal was to design and build a line-following robot that could navigate a track with precision and speed. We combined engineering skills and creative problem-solving to construct a robot that not only meets the technical requirements but also showcases our innovative approach.
+Welcome to the LFL Line Follower Project! This project was an exciting endeavor undertaken by our team, LFL, consisting of Ungureanu Maria-Antonia, Marin Iulian and me, during our Robotics class. The goal was to design and build a line-following robot that could navigate a track with precision and speed. We combined engineering skills and creative problem-solving to construct a robot that not only meets the technical requirements but also showcases our innovative approach.
 
 ## Project Overview 🌟
 
